@@ -27,3 +27,7 @@ yarn run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Results
+
+![setup image](https://github.com/tuan-nng/bus-indicator-board/blob/master/result.png)
